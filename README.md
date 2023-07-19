@@ -1,2 +1,2 @@
 # TrekTrail
-Interactive trip planner: CSS and JS-powered website to effortlessly plan and organize your next adventure or travel itinerary.
+Easy-to-use trip planning template: A website design with CSS and JS that helps you create customized travel plans.
